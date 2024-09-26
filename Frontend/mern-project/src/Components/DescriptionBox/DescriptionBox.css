@@ -1,0 +1,29 @@
+.descriptionbox {
+  margin: 0px 170px;
+}
+.descriptionbox-navigator {
+  display: flex;
+  /* gap: 30px; */
+}
+.descriptionbox-nav-box {
+  color: #272222;
+  font-size: 20px;
+  border: 1px solid #5e5e5e;
+  padding: 10px;
+}
+.fade {
+  color: #353030;
+  font-size: 20px;
+  border: 1px solid #5e5e5e;
+  padding: 10px;
+  background-color: #e9e0e033;
+}
+.descriptionbox-description {
+  border: 1px solid #5d5d5d;
+}
+.descriptionbox-description p {
+  font-size: 14px;
+  margin: 30px 20px;
+  line-height: 1.5;
+  color: #3e3e3e;
+}
